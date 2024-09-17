@@ -1,7 +1,7 @@
 # ¡Viva México!
-# Introduccion
-# Parte I: Creacion de la Piramide
-# Parte II: Modelado del paisaje
+# Introducción
+# Parte I: Creación de la Piramide
+# Parte II: Modelado del Paisaje
 
 ## Antes de comenzar a trabajar directamente con el terreno, investigué imágenes sobre cómo se representaba Tenochtitlán  según los artistas. La imagen que más me llamó la atención fue la siguiente:
 
@@ -27,7 +27,7 @@
 
 ![image](https://github.com/user-attachments/assets/5828d7e7-34c1-4e9e-9a6d-1ace68ca3fd2)
 
-# Parte III: Configuracion de la Escena mediante Assets
+# Parte III: Configuración de la Escena mediante Assets
 # Parte IV: Anadidura de Personajes, Animales y Plantas
 # Parte V: Historia acerca del Videojuego: 
 # Parte VI: Opiniones Personales Acerca de la Actividad
