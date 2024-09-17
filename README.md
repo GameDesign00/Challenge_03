@@ -31,3 +31,5 @@
 # Parte IV: Anadidura de Personajes, Animales y Plantas
 # Parte V: Historia acerca del Videojuego: 
 # Parte VI: Opiniones Personales Acerca de la Actividad
+## Sebastián Negrón:
+## La actividad me pareció un avance natural respecto a la anterior. Lo que más disfruté fue trabajar con las texturas, ya que añaden un nivel nuevo de profundidad y atracción hacia los objetos, especialmente al terreno. Un detalle tan sencillo como una buena textura puede hacer una gran diferencia en la creación de un objeto. También me gustó que trabajamos con las pirámides de México, ya que me trajo recuerdos de cuando estaba en quinto grado y tuve que hacer una maqueta acerca de una de las estructuras de la civilización azteca. Opté por replicar el Templo Mayor de Tenochtitlán. Lamentablemente, no tengo fotos para compartir debido a que las he perdido, pero este trabajo me evocó esos tiempos y mejoró mis habilidades en Unity.
