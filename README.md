@@ -1,4 +1,5 @@
-![Screenshot 2024-09-20 144617](https://github.com/user-attachments/assets/239e39e3-dd42-4447-8138-e74237a7537e) # ¡Viva México!
+![Screenshot 2024-09-20 144617](https://github.com/user-attachments/assets/239e39e3-dd42-4447-8138-e74237a7537e) 
+# ¡Viva México!
 # Introducción
 # Parte I: Creación de la Pirámide Prehispánica
 ## El proyecto inició con la creación un plano utilizando Probuilder para que fuera la base de la pirámide.
@@ -21,7 +22,7 @@
 ![WhatsApp Image 2024-09-19 at 20 59 35_8d200226](https://github.com/user-attachments/assets/22776f37-9881-486d-b040-497c38310c90)
 
 ![WhatsApp Image 2024-09-19 at 21 00 31_fb78ec32](https://github.com/user-attachments/assets/e7d48320-a7f8-4608-88ff-b937b480feb0)
-## El resultado final de la piramide fue el siguiente:
+## El resultado final de la pirámide fue el siguiente:
 ![WhatsApp Image 2024-09-19 at 21 01 01_3e45f35a](https://github.com/user-attachments/assets/75ed3746-5b4e-4f26-b22d-ce03afaaffdf)
 
 ![WhatsApp Image 2024-09-19 at 21 01 25_d572296c](https://github.com/user-attachments/assets/54ba5b91-5330-4f88-baa3-43ecf3ad4217)
@@ -29,27 +30,27 @@
 
 # Parte II: Modelado del Paisaje
 
-## Antes de comenzar a trabajar directamente con el terreno, investigué imágenes sobre cómo se representaba Tenochtitlán  según los artistas. La imagen que más me llamó la atención fue la siguiente:
+## Antes de comenzar a trabajar con el terreno, se investigí sobre las representaciones Tenochtitlán y de las pirámides prehispánicas, según los artistas e historiadores. La imagen más llamativa que se encontró fue la siguiente:
 
 ![tenochtitlan-picture](https://github.com/user-attachments/assets/f6009ade-fe8e-4756-88af-e775fbf50d6b)
 
-## Con la idea clara en mente, empecé a trabajar insertando un terreno bajo la carpeta de "Game Objects". Modifiqué las dimensiones del terreno a 50 de largo por 50 de ancho y elevé su altura para poder crear una trinchera eventualmente:
+## Tomando inspiración de las imágenes, se empezó a trabajar insertando un terreno bajo la carpeta de "Game Objects". Luego se modificaron las dimensiones del terreno a 50 de largo por 50 de ancho y se elevó su altura para poder crear una trinchera eventualmente:
 
 ![image](https://github.com/user-attachments/assets/e88e865e-360e-4633-9d6b-6a3fef4d29e5)
 
-## Antes de editar el terreno, necesitaba un paso adicional: adjuntar las texturas con las que trabajaría. Utilicé la mayoría de las texturas proporcionadas en clase, pero añadí dos adicionales: una textura de agua y otra de tierra. Las texturas se añaden a través del inspector bajo la carpeta de "Paint Terrain":
+## Antes de editar el terreno  se adjuntaron las texturas con las que se trabajaría. La mayoría de las texturas empleadas fueron las proporcionadas en clase, pero se añadiron 2 adicionales: una textura de agua y otra de tierra. Las texturas se añadieron a través del inspector bajo la carpeta de "Paint Terrain":
 
 ![image](https://github.com/user-attachments/assets/3c818a49-ac71-40b8-bc60-b0afd50d11ae)
 
-## Con todo listo, utilicé la textura de grama oscura como terreno principal e inserté un cubo para aproximarme a la forma de la trinchera que quería cavar:
+## Tras haber completado el paso anterior, se empleó la textura de grama oscura como terreno principal e se le insertó un cubo para saber el perímetro aproximado de la pirámide a la hora de cavar la trinchera:
 
 ![image](https://github.com/user-attachments/assets/01a39736-f442-44e3-a778-c70db3a42f21)
 
-## En el siguiente paso, añadí una pirámide improvisada para visualizar mejor cómo se vería el terreno. Una vez colocada, usé las texturas para acercar el terreno a una representación más fiel de Tenochtitlán. Decidí dar énfasis a la textura de tierra, ya que en las imágenes de la ciudad se destaca mucho la tierra. Además, formé unos caminos de gravilla para facilitar el acceso a la pirámide:
+## En el siguiente paso, se añadió una pirámide improvisada para visualizar mejor cómo se vería el terreno. Una vez colocada, se colocaron las texturas del terreno para hacer que fuera una representación más fiel al área que rodeaba a la ciudad de Tenochtitlán y a las pirámides. Se dió énfasis a la textura de tierra, ya que en las imágenes de la ciudad se destaca mucho la tierra. Además, se crearon unos caminos de gravilla para facilitar el acceso a la pirámide:
 
 ![image](https://github.com/user-attachments/assets/f827e958-860f-4e90-ad81-6042f96711df)
 
-## Finalmente, concluí el terreno añadiendo unas montañas en la parte trasera, similar a la imagen original. También le di un poco de relieve al terreno para que se viera más rígido y rústico.
+## Finalmente, se añadieron montañas en la parte trasera, similar a la imagen original. También se le dió algo de relieve al terreno para que se viera más rígido y rústico.
 
 ![image](https://github.com/user-attachments/assets/5828d7e7-34c1-4e9e-9a6d-1ace68ca3fd2)
 
@@ -61,8 +62,8 @@
 ![Screenshot 2024-09-20 144923](https://github.com/user-attachments/assets/d860ab8e-fd04-4a58-8f66-ce9ac65245eb)
 ![Screenshot 2024-09-20 002730](https://github.com/user-attachments/assets/04c691fc-214e-4170-9cd6-b6a8c4b4f304)
 
-# Parte IV: Anadidura de Personajes, Animales y Plantas
-## Todos los asset y elementos añadidos se sacaron de assetstore de unity
+# Parte IV: Adición de Personajes, Animales y Plantas
+## Todos los assets y elementos añadidos se sacaron del Asset Store de Unity
 ![Screenshot 2024-09-20 003024](https://github.com/user-attachments/assets/25ddc440-70c8-4409-b68c-a8e8275b05b0)
 ![Screenshot 2024-09-20 002820](https://github.com/user-attachments/assets/6f31ca56-ea0f-4083-8d19-0f8fdc52abe6)
 ![Screenshot 2024-09-20 002829](https://github.com/user-attachments/assets/a3170af8-161d-466a-be09-99381411d9d6)
@@ -75,16 +76,16 @@
 ![Screenshot 2024-09-20 002917](https://github.com/user-attachments/assets/7f2e8d7b-25d6-4e23-b468-8b233fc62501)
 ![Screenshot 2024-09-20 011126](https://github.com/user-attachments/assets/35d45047-d31e-4563-875b-c3452a9d7b43)
 ![Screenshot 2024-09-20 011253](https://github.com/user-attachments/assets/985fddad-abb8-4bad-9c3b-f18c4deaf501)
-## Estas fueron las texturas usadas algunas de ellas fueron las que el profesor paso en la clase y otras fueron imagenes que se buscaron para que  dieran detalles mas realistas a lo que se buscaba.
+## Estas fueron las texturas usadas. Algunas de ellas fueron las proporcionadas en clase y otras fueron imágenes que se buscaron con el fin de dar realismo a ciertas partes del proyecto.
 ![Screenshot 2024-09-20 002934](https://github.com/user-attachments/assets/d2dbcc5f-d491-449b-a808-3e04c532f2b5)
 
-# Parte V: Historia acerca del Videojuego: 
+# Parte V: Historia del Videojuego: 
 ## Esta es la historia de Mita y su abuelo los cuales deseaban aventuras y explorar el mundo, sin embargo, primero comenzaron con su Mexico. Lo cual los lleva a explorar una antigua piramide la cual habia sido usada por unos bandidos hace 100 años como base ya que era un lugar alejado perfecto para hacer sus fechorias. Lo que ellos no sabian era que los bandidos seguian ahi cuidando su tesoro. Que gracias a un artefacto circular que tiene la piramide que gracias a el tendran vida eterna pero seran unos esqueletos el resto de su vida. Seran capas el abuelo y Mita de salir de ahi y preservar el recuerdo de sus antepasados.
 ## Espera que?
-## Que hacen los pollos!!!!!!!!!!
+## Que hacen los pollos!!! 
 ![Screenshot 2024-09-20 145144](https://github.com/user-attachments/assets/82ee0f39-034b-4653-af63-bd9f79e0adaa)
 
-# Parte VI: Opiniones Personales Acerca de la Actividad
+# Parte VI: Opiniones Personales Sobre la Actividad
 ## Sebastián Negrón:
 ## La actividad me pareció un avance natural respecto a la anterior. Lo que más disfruté fue trabajar con las texturas, ya que añaden un nivel nuevo de profundidad y atracción hacia los objetos, especialmente al terreno. Un detalle tan sencillo como una buena textura puede hacer una gran diferencia en la creación de un objeto. También me gustó que trabajamos con las pirámides de México, ya que me trajo recuerdos de cuando estaba en quinto grado y tuve que hacer una maqueta acerca de una de las estructuras de la civilización azteca. Opté por replicar el Templo Mayor de Tenochtitlán. Lamentablemente, no tengo fotos para compartir debido a que las he perdido, pero este trabajo me evocó esos tiempos y mejoró mis habilidades en Unity.
 
