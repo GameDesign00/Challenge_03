@@ -11,13 +11,13 @@
 ![WhatsApp Image 2024-09-19 at 20 54 38_d2bd5213](https://github.com/user-attachments/assets/177f1754-e7be-4108-ac0f-dead98c161c7)
 ## Se repitió el proceso de creación del primer nivel de la pirámide para hacer el resto de niveles.
 ![WhatsApp Image 2024-09-19 at 20 55 33_59efa7e9](https://github.com/user-attachments/assets/a80e81d5-f26d-49c5-bb3a-7a18d4f140c7)
-## Usando la tecnica anterior se crearon unos cubos que a largandolos quedaron como pilares los cuales servirian para sostener el techo
+## Usando la técnica anterior se crearon unos cubos que se alargaron para crear los pilares que sostienen el techo.
 ![WhatsApp Image 2024-09-19 at 20 56 32_7d24290c](https://github.com/user-attachments/assets/9cd98726-1e14-4d76-a961-3bcf58451644)
-## El techo se creo con probuilder y siguiendo la tecnica anterior de los pisos 
+## El techo se creó con Probuilder y de manera similar a como se hicieron los niveles. 
 ![WhatsApp Image 2024-09-19 at 20 57 04_efa2f38c](https://github.com/user-attachments/assets/834112fc-2cab-40c2-a24d-aa73e70b3244)
-## Para crear el acceso al techo se hizo con un plano de probuilder el cual simula ser unas escaleras
+## Para crear el acceso a la parte superior de la pirámide, se hizo un cubo con Probuilder para crear las escaleras.
 ![WhatsApp Image 2024-09-19 at 20 58 49_d308a6e6](https://github.com/user-attachments/assets/43e30066-e747-4365-aa55-9875d5176e2b)
-## Para mas detalle a la escalera se le subieron los bordes simulando un pasamano
+## Para añadirle más detalle a la escalera, se marcaron los vértices con Probuilder, estrechando las caras laterales del cubo y subiéndolas para crear los bordes que serían  los pasamanos de las escaleras.
 ![WhatsApp Image 2024-09-19 at 20 59 35_8d200226](https://github.com/user-attachments/assets/22776f37-9881-486d-b040-497c38310c90)
 
 ![WhatsApp Image 2024-09-19 at 21 00 31_fb78ec32](https://github.com/user-attachments/assets/e7d48320-a7f8-4608-88ff-b937b480feb0)
