@@ -1,8 +1,9 @@
 # ¡Viva México!
 # Introducción
 # Parte I: Creación de la Piramide
+## Primero se empezo creando un plano con probuilder para que este simule la base de la piramide
 ![WhatsApp Image 2024-09-19 at 20 51 04_b7798e2e](https://github.com/user-attachments/assets/c98b7f4e-8522-47e2-bc8e-a5e8db474e47)
-
+## Segundo fue crear un cubo con probuilder el cual servira como el primer piso de la piramide
 ![WhatsApp Image 2024-09-19 at 20 51 28_a768141b](https://github.com/user-attachments/assets/495bd568-172f-49d8-893c-7b2d51d89267)
 
 ![WhatsApp Image 2024-09-19 at 20 51 50_9ef2e394](https://github.com/user-attachments/assets/9268e0ed-8cc3-4837-9996-185c9a75e11d)
@@ -20,7 +21,7 @@
 ![WhatsApp Image 2024-09-19 at 20 59 35_8d200226](https://github.com/user-attachments/assets/22776f37-9881-486d-b040-497c38310c90)
 
 ![WhatsApp Image 2024-09-19 at 21 00 31_fb78ec32](https://github.com/user-attachments/assets/e7d48320-a7f8-4608-88ff-b937b480feb0)
-
+## El resultado final de la piramide fue el siguiente:
 ![WhatsApp Image 2024-09-19 at 21 01 01_3e45f35a](https://github.com/user-attachments/assets/75ed3746-5b4e-4f26-b22d-ce03afaaffdf)
 
 ![WhatsApp Image 2024-09-19 at 21 01 25_d572296c](https://github.com/user-attachments/assets/54ba5b91-5330-4f88-baa3-43ecf3ad4217)
