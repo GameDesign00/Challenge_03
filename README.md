@@ -1,4 +1,4 @@
-![Screenshot 2024-09-20 144617](https://github.com/user-attachments/assets/239e39e3-dd42-4447-8138-e74237a7537e)# ¡Viva México!
+![Screenshot 2024-09-20 144617](https://github.com/user-attachments/assets/239e39e3-dd42-4447-8138-e74237a7537e) # ¡Viva México!
 # Introducción
 # Parte I: Creación de la Pirámide Prehispánica
 ## El proyecto inició con la creación un plano utilizando Probuilder para que fuera la base de la pirámide.
