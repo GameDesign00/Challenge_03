@@ -64,10 +64,11 @@
 
 # Parte IV: Anadidura de Personajes, Animales y Plantas
 ![Screenshot 2024-09-20 003024](https://github.com/user-attachments/assets/25ddc440-70c8-4409-b68c-a8e8275b05b0)
-![Screenshot 2024-09-20 003054](https://github.com/user-attachments/assets/1f81e6fc-a67c-4d0b-9034-dbe97e90962c)
-![Screenshot 2024-09-20 003108](https://github.com/user-attachments/assets/8f7b131a-7dbe-4825-b279-a999ccec5775)
-![Screenshot 2024-09-20 002842](https://github.com/user-attachments/assets/df45b99e-cf6f-45a8-83f5-ec17930b970b)
+![Screenshot 2024-09-20 002820](https://github.com/user-attachments/assets/6f31ca56-ea0f-4083-8d19-0f8fdc52abe6)
+![Screenshot 2024-09-20 002829](https://github.com/user-attachments/assets/a3170af8-161d-466a-be09-99381411d9d6)
 
+![Screenshot 2024-09-20 003054](https://github.com/user-attachments/assets/1f81e6fc-a67c-4d0b-9034-dbe97e90962c)
+![Screenshot 2024-09-20 002842](https://github.com/user-attachments/assets/df45b99e-cf6f-45a8-83f5-ec17930b970b)
 ![Screenshot 2024-09-20 003126](https://github.com/user-attachments/assets/0ad3e40b-e07f-4d01-af41-74879d59a961)
 ![Screenshot 2024-09-20 002957](https://github.com/user-attachments/assets/276bd07a-87f0-4661-9763-7c3f77fcdc7f)
 ![Screenshot 2024-09-20 003006](https://github.com/user-attachments/assets/a1842ee9-e930-47b7-b79a-284b06b80b1c)
