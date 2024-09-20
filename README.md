@@ -3,13 +3,13 @@
 # Parte I: Creación de la Pirámide Prehispánica
 ## El proyecto inició con la creación un plano utilizando Probuilder para que fuera la base de la pirámide.
 ![WhatsApp Image 2024-09-19 at 20 51 04_b7798e2e](https://github.com/user-attachments/assets/c98b7f4e-8522-47e2-bc8e-a5e8db474e47)
-## Luego se creó un cubo con Probuilder para que sirviera como el primer escalón de la pirámide.
+## Luego se creó un cubo con Probuilder para que sirviera como el primer nivel de la pirámide.
 ![WhatsApp Image 2024-09-19 at 20 51 28_a768141b](https://github.com/user-attachments/assets/495bd568-172f-49d8-893c-7b2d51d89267)
 
 ![WhatsApp Image 2024-09-19 at 20 51 50_9ef2e394](https://github.com/user-attachments/assets/9268e0ed-8cc3-4837-9996-185c9a75e11d)
-## Se escogio la textura que tendria toda la piramide
+## Se escogió la textura que tendría la pirámide.
 ![WhatsApp Image 2024-09-19 at 20 54 38_d2bd5213](https://github.com/user-attachments/assets/177f1754-e7be-4108-ac0f-dead98c161c7)
-## Se hizo lo mismo que en el primer piso de la piramide para terminar de hacerle los pisos que tendria
+## Se repitió el proceso de creación del primer nivel de la pirámide para hacer el resto de niveles.
 ![WhatsApp Image 2024-09-19 at 20 55 33_59efa7e9](https://github.com/user-attachments/assets/a80e81d5-f26d-49c5-bb3a-7a18d4f140c7)
 ## Usando la tecnica anterior se crearon unos cubos que a largandolos quedaron como pilares los cuales servirian para sostener el techo
 ![WhatsApp Image 2024-09-19 at 20 56 32_7d24290c](https://github.com/user-attachments/assets/9cd98726-1e14-4d76-a961-3bcf58451644)
