@@ -63,10 +63,10 @@
 ![Screenshot 2024-09-20 002730](https://github.com/user-attachments/assets/1dd06217-95a1-4620-9717-67759e4e4f10)
 
 # Parte IV: Anadidura de Personajes, Animales y Plantas
+## Todos los asset y elementos añadidos se sacaron de
 ![Screenshot 2024-09-20 003024](https://github.com/user-attachments/assets/25ddc440-70c8-4409-b68c-a8e8275b05b0)
 ![Screenshot 2024-09-20 002820](https://github.com/user-attachments/assets/6f31ca56-ea0f-4083-8d19-0f8fdc52abe6)
 ![Screenshot 2024-09-20 002829](https://github.com/user-attachments/assets/a3170af8-161d-466a-be09-99381411d9d6)
-
 ![Screenshot 2024-09-20 003054](https://github.com/user-attachments/assets/1f81e6fc-a67c-4d0b-9034-dbe97e90962c)
 ![Screenshot 2024-09-20 002842](https://github.com/user-attachments/assets/df45b99e-cf6f-45a8-83f5-ec17930b970b)
 ![Screenshot 2024-09-20 003126](https://github.com/user-attachments/assets/0ad3e40b-e07f-4d01-af41-74879d59a961)
@@ -74,6 +74,8 @@
 ![Screenshot 2024-09-20 003006](https://github.com/user-attachments/assets/a1842ee9-e930-47b7-b79a-284b06b80b1c)
 ![Screenshot 2024-09-20 003142](https://github.com/user-attachments/assets/3c029d5a-6cb0-4959-a700-ee1db81c198b)
 ![Screenshot 2024-09-20 002917](https://github.com/user-attachments/assets/7f2e8d7b-25d6-4e23-b468-8b233fc62501)
+![Screenshot 2024-09-20 011126](https://github.com/user-attachments/assets/35d45047-d31e-4563-875b-c3452a9d7b43)
+![Screenshot 2024-09-20 011253](https://github.com/user-attachments/assets/985fddad-abb8-4bad-9c3b-f18c4deaf501)
 
 # Parte V: Historia acerca del Videojuego: 
 ![Screenshot 2024-09-20 002714](https://github.com/user-attachments/assets/b76c7d3f-3d54-4bd5-80b3-0d932c75669b)
