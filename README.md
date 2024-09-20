@@ -1,9 +1,9 @@
 # ¡Viva México!
 # Introducción
 # Parte I: Creación de la Pirámide Prehispánica
-## Primero se empezo creando un plano con probuilder para que este simule la base de la piramide
+## El proyecto inició con la creación un plano utilizando Probuilder para que fuera la base de la pirámide.
 ![WhatsApp Image 2024-09-19 at 20 51 04_b7798e2e](https://github.com/user-attachments/assets/c98b7f4e-8522-47e2-bc8e-a5e8db474e47)
-## Segundo fue crear un cubo con probuilder el cual servira como el primer piso de la piramide
+## Luego se creó un cubo con Probuilder para que sirviera como el primer escalón de la pirámide.
 ![WhatsApp Image 2024-09-19 at 20 51 28_a768141b](https://github.com/user-attachments/assets/495bd568-172f-49d8-893c-7b2d51d89267)
 
 ![WhatsApp Image 2024-09-19 at 20 51 50_9ef2e394](https://github.com/user-attachments/assets/9268e0ed-8cc3-4837-9996-185c9a75e11d)
