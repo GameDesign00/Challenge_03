@@ -63,7 +63,7 @@
 ![Screenshot 2024-09-20 002730](https://github.com/user-attachments/assets/1dd06217-95a1-4620-9717-67759e4e4f10)
 
 # Parte IV: Anadidura de Personajes, Animales y Plantas
-## Todos los asset y elementos añadidos se sacaron de
+## Todos los asset y elementos añadidos se sacaron de assetstore de unity
 ![Screenshot 2024-09-20 003024](https://github.com/user-attachments/assets/25ddc440-70c8-4409-b68c-a8e8275b05b0)
 ![Screenshot 2024-09-20 002820](https://github.com/user-attachments/assets/6f31ca56-ea0f-4083-8d19-0f8fdc52abe6)
 ![Screenshot 2024-09-20 002829](https://github.com/user-attachments/assets/a3170af8-161d-466a-be09-99381411d9d6)
@@ -76,10 +76,20 @@
 ![Screenshot 2024-09-20 002917](https://github.com/user-attachments/assets/7f2e8d7b-25d6-4e23-b468-8b233fc62501)
 ![Screenshot 2024-09-20 011126](https://github.com/user-attachments/assets/35d45047-d31e-4563-875b-c3452a9d7b43)
 ![Screenshot 2024-09-20 011253](https://github.com/user-attachments/assets/985fddad-abb8-4bad-9c3b-f18c4deaf501)
+## Estas fueron las texturas usadas algunas de ellas fueron las que el profesor paso en la clase y otras fueron imagenes que se buscaron para que  dieran detalles mas realistas a lo que se buscaba.
+![Screenshot 2024-09-20 002934](https://github.com/user-attachments/assets/d2dbcc5f-d491-449b-a808-3e04c532f2b5)
 
 # Parte V: Historia acerca del Videojuego: 
+## Esta es la historia de Mita y su abuelolos cuales deseaban aventuras y querian explorar el mundo, sin embargo, primero comensaron con su Mexico magico. Lo cual los lleva a explorar una antigua piramide la cual habia sido usada por unos bandidos hace 100 años como base ya que era un lugar alejado perfecto para hacer sus fechorias. Lo que ellos no sabian era que los bandidos seguian ahi cuidando su tesoro. Que gracias a un artefacto circular que tiene la piramide que gracias a el tendran vida eterna pero seran unos esqueletos el resto de su vida. Seran capas el abuelo y Mita de salir de ahi y preservar el recuerdo de sus antepasados.
+## Espera que?
+## Que hacen los pollos!!!!!!!!!!
 ![Screenshot 2024-09-20 002714](https://github.com/user-attachments/assets/b76c7d3f-3d54-4bd5-80b3-0d932c75669b)
 
 # Parte VI: Opiniones Personales Acerca de la Actividad
 ## Sebastián Negrón:
 ## La actividad me pareció un avance natural respecto a la anterior. Lo que más disfruté fue trabajar con las texturas, ya que añaden un nivel nuevo de profundidad y atracción hacia los objetos, especialmente al terreno. Un detalle tan sencillo como una buena textura puede hacer una gran diferencia en la creación de un objeto. También me gustó que trabajamos con las pirámides de México, ya que me trajo recuerdos de cuando estaba en quinto grado y tuve que hacer una maqueta acerca de una de las estructuras de la civilización azteca. Opté por replicar el Templo Mayor de Tenochtitlán. Lamentablemente, no tengo fotos para compartir debido a que las he perdido, pero este trabajo me evocó esos tiempos y mejoró mis habilidades en Unity.
+
+## Mayra Lago:
+
+## Jancarlos Gonzalez:
+## Este challenge 3 me gusto mucho siempre es bueno conocer un poco mas de cada pais. Las habilidades requerida para esta parte si fueron un poco mas avanzadas ya que la busqueda de los asset no es miuy facil ya que casi todos son de paga y si quieres uno gratis que sea bueno tienes que buscar un poco mas de lo normal. Eso si una vez encuentras el ideal puedes hacer mucho con ello ya que tanto con el que añadio flores y arboles como con el de animales se puede hacer mucho y muchas decoraciones muy creatrivas es por eso que me gusto tanto ya que podre utilizar todo lo aqui usado y aprendido en futuros proyectos.
