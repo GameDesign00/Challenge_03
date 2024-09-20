@@ -1,6 +1,31 @@
 # ¡Viva México!
 # Introducción
 # Parte I: Creación de la Piramide
+![WhatsApp Image 2024-09-19 at 20 51 04_b7798e2e](https://github.com/user-attachments/assets/c98b7f4e-8522-47e2-bc8e-a5e8db474e47)
+
+![WhatsApp Image 2024-09-19 at 20 51 28_a768141b](https://github.com/user-attachments/assets/495bd568-172f-49d8-893c-7b2d51d89267)
+
+![WhatsApp Image 2024-09-19 at 20 51 50_9ef2e394](https://github.com/user-attachments/assets/9268e0ed-8cc3-4837-9996-185c9a75e11d)
+
+![WhatsApp Image 2024-09-19 at 20 54 38_d2bd5213](https://github.com/user-attachments/assets/177f1754-e7be-4108-ac0f-dead98c161c7)
+
+![WhatsApp Image 2024-09-19 at 20 55 33_59efa7e9](https://github.com/user-attachments/assets/a80e81d5-f26d-49c5-bb3a-7a18d4f140c7)
+
+![WhatsApp Image 2024-09-19 at 20 56 32_7d24290c](https://github.com/user-attachments/assets/9cd98726-1e14-4d76-a961-3bcf58451644)
+
+![WhatsApp Image 2024-09-19 at 20 57 04_efa2f38c](https://github.com/user-attachments/assets/834112fc-2cab-40c2-a24d-aa73e70b3244)
+
+![WhatsApp Image 2024-09-19 at 20 58 49_d308a6e6](https://github.com/user-attachments/assets/43e30066-e747-4365-aa55-9875d5176e2b)
+
+![WhatsApp Image 2024-09-19 at 20 59 35_8d200226](https://github.com/user-attachments/assets/22776f37-9881-486d-b040-497c38310c90)
+
+![WhatsApp Image 2024-09-19 at 21 00 31_fb78ec32](https://github.com/user-attachments/assets/e7d48320-a7f8-4608-88ff-b937b480feb0)
+
+![WhatsApp Image 2024-09-19 at 21 01 01_3e45f35a](https://github.com/user-attachments/assets/75ed3746-5b4e-4f26-b22d-ce03afaaffdf)
+
+![WhatsApp Image 2024-09-19 at 21 01 25_d572296c](https://github.com/user-attachments/assets/54ba5b91-5330-4f88-baa3-43ecf3ad4217)
+
+
 # Parte II: Modelado del Paisaje
 
 ## Antes de comenzar a trabajar directamente con el terreno, investigué imágenes sobre cómo se representaba Tenochtitlán  según los artistas. La imagen que más me llamó la atención fue la siguiente:
