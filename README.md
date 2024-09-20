@@ -54,8 +54,29 @@
 ![image](https://github.com/user-attachments/assets/5828d7e7-34c1-4e9e-9a6d-1ace68ca3fd2)
 
 # Parte III: Configuración de la Escena mediante Assets
+![Screenshot 2024-09-20 002606](https://github.com/user-attachments/assets/d1f886e5-00a6-4894-b13c-cb0e55a5207d)
+![Screenshot 2024-09-20 002750](https://github.com/user-attachments/assets/d58c129a-2b74-4315-bef6-564a87b14123)
+
+![Screenshot 2024-09-20 002629](https://github.com/user-attachments/assets/c82e9db3-2c04-4416-8b56-6837ef8508f5)
+![Screenshot 2024-09-20 002640](https://github.com/user-attachments/assets/29233367-9616-48c0-865c-b6ce2dff8ae0)
+![Screenshot 2024-09-20 002654](https://github.com/user-attachments/assets/2e0c2b84-01e3-40e6-876d-0da82082e31c)
+![Screenshot 2024-09-20 002730](https://github.com/user-attachments/assets/1dd06217-95a1-4620-9717-67759e4e4f10)
+
 # Parte IV: Anadidura de Personajes, Animales y Plantas
+![Screenshot 2024-09-20 003024](https://github.com/user-attachments/assets/25ddc440-70c8-4409-b68c-a8e8275b05b0)
+![Screenshot 2024-09-20 003054](https://github.com/user-attachments/assets/1f81e6fc-a67c-4d0b-9034-dbe97e90962c)
+![Screenshot 2024-09-20 003108](https://github.com/user-attachments/assets/8f7b131a-7dbe-4825-b279-a999ccec5775)
+![Screenshot 2024-09-20 002842](https://github.com/user-attachments/assets/df45b99e-cf6f-45a8-83f5-ec17930b970b)
+
+![Screenshot 2024-09-20 003126](https://github.com/user-attachments/assets/0ad3e40b-e07f-4d01-af41-74879d59a961)
+![Screenshot 2024-09-20 002957](https://github.com/user-attachments/assets/276bd07a-87f0-4661-9763-7c3f77fcdc7f)
+![Screenshot 2024-09-20 003006](https://github.com/user-attachments/assets/a1842ee9-e930-47b7-b79a-284b06b80b1c)
+![Screenshot 2024-09-20 003142](https://github.com/user-attachments/assets/3c029d5a-6cb0-4959-a700-ee1db81c198b)
+![Screenshot 2024-09-20 002917](https://github.com/user-attachments/assets/7f2e8d7b-25d6-4e23-b468-8b233fc62501)
+
 # Parte V: Historia acerca del Videojuego: 
+![Screenshot 2024-09-20 002714](https://github.com/user-attachments/assets/b76c7d3f-3d54-4bd5-80b3-0d932c75669b)
+
 # Parte VI: Opiniones Personales Acerca de la Actividad
 ## Sebastián Negrón:
 ## La actividad me pareció un avance natural respecto a la anterior. Lo que más disfruté fue trabajar con las texturas, ya que añaden un nivel nuevo de profundidad y atracción hacia los objetos, especialmente al terreno. Un detalle tan sencillo como una buena textura puede hacer una gran diferencia en la creación de un objeto. También me gustó que trabajamos con las pirámides de México, ya que me trajo recuerdos de cuando estaba en quinto grado y tuve que hacer una maqueta acerca de una de las estructuras de la civilización azteca. Opté por replicar el Templo Mayor de Tenochtitlán. Lamentablemente, no tengo fotos para compartir debido a que las he perdido, pero este trabajo me evocó esos tiempos y mejoró mis habilidades en Unity.
