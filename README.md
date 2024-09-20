@@ -9,15 +9,15 @@
 ![WhatsApp Image 2024-09-19 at 20 51 50_9ef2e394](https://github.com/user-attachments/assets/9268e0ed-8cc3-4837-9996-185c9a75e11d)
 ## Se escogio la textura que tendria toda la piramide
 ![WhatsApp Image 2024-09-19 at 20 54 38_d2bd5213](https://github.com/user-attachments/assets/177f1754-e7be-4108-ac0f-dead98c161c7)
-
+## Se hizo lo mismo que en el primer piso de la piramide para terminar de hacerle los pisos que tendria
 ![WhatsApp Image 2024-09-19 at 20 55 33_59efa7e9](https://github.com/user-attachments/assets/a80e81d5-f26d-49c5-bb3a-7a18d4f140c7)
-
+## Usando la tecnica anterior se crearon unos cubos que a largandolos quedaron como pilares los cuales servirian para sostener el techo
 ![WhatsApp Image 2024-09-19 at 20 56 32_7d24290c](https://github.com/user-attachments/assets/9cd98726-1e14-4d76-a961-3bcf58451644)
-
+## El techo se creo con probuilder y siguiendo la tecnica anterior de los pisos 
 ![WhatsApp Image 2024-09-19 at 20 57 04_efa2f38c](https://github.com/user-attachments/assets/834112fc-2cab-40c2-a24d-aa73e70b3244)
-
+## Para crear el acceso al techo se hizo con un plano de probuilder el cual simula ser unas escaleras
 ![WhatsApp Image 2024-09-19 at 20 58 49_d308a6e6](https://github.com/user-attachments/assets/43e30066-e747-4365-aa55-9875d5176e2b)
-
+## Para mas detalle a la escalera se le subieron los bordes simulando un pasamano
 ![WhatsApp Image 2024-09-19 at 20 59 35_8d200226](https://github.com/user-attachments/assets/22776f37-9881-486d-b040-497c38310c90)
 
 ![WhatsApp Image 2024-09-19 at 21 00 31_fb78ec32](https://github.com/user-attachments/assets/e7d48320-a7f8-4608-88ff-b937b480feb0)
