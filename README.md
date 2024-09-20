@@ -81,8 +81,8 @@
 
 # Parte V: Historia del Videojuego: 
 ## Esta es la historia de Mita y su abuelo los cuales deseaban aventuras y explorar el mundo, sin embargo, primero comenzaron con su Mexico. Lo cual los lleva a explorar una antigua piramide la cual habia sido usada por unos bandidos hace 100 años como base ya que era un lugar alejado perfecto para hacer sus fechorias. Lo que ellos no sabian era que los bandidos seguian ahi cuidando su tesoro. Que gracias a un artefacto circular que tiene la piramide que gracias a el tendran vida eterna pero seran unos esqueletos el resto de su vida. Seran capas el abuelo y Mita de salir de ahi y preservar el recuerdo de sus antepasados.
-## Espera que?
-## Que hacen los pollos!!! 
+## ¿Espera, qué?
+## ¡¿Qué hacen las gallinas?! 
 ![Screenshot 2024-09-20 145144](https://github.com/user-attachments/assets/82ee0f39-034b-4653-af63-bd9f79e0adaa)
 
 # Parte VI: Opiniones Personales Sobre la Actividad
@@ -90,6 +90,7 @@
 ## La actividad me pareció un avance natural respecto a la anterior. Lo que más disfruté fue trabajar con las texturas, ya que añaden un nivel nuevo de profundidad y atracción hacia los objetos, especialmente al terreno. Un detalle tan sencillo como una buena textura puede hacer una gran diferencia en la creación de un objeto. También me gustó que trabajamos con las pirámides de México, ya que me trajo recuerdos de cuando estaba en quinto grado y tuve que hacer una maqueta acerca de una de las estructuras de la civilización azteca. Opté por replicar el Templo Mayor de Tenochtitlán. Lamentablemente, no tengo fotos para compartir debido a que las he perdido, pero este trabajo me evocó esos tiempos y mejoró mis habilidades en Unity.
 
 ## Mayra Lago:
+## Considero que esta actividad fue bastante divertida, pues me gustó como se combinaban los elementos del terreno, la construcción y los assets para crear el proyecto. Además de que las texturas y materiales mejorban el aspecto de los elementos mencionados y les daban estilo. Un detalle que me gustó del proyecto fue la manera en las que combinaba elementos realistas como las texturas del terreno y la construcción con los elementos más cercanos a la ficción como lo son los bandidos esqueletos. Haciendo que el proyecto pareciera más una representación sacada de un juego y no solo una maqueta de una pirámide prehispánica.
 
 ## Jancarlos Gonzalez:
 ## Este challenge 3 me gusto mucho siempre es bueno conocer un poco mas de cada pais. Las habilidades requerida para esta parte si fueron un poco mas avanzadas ya que la busqueda de los asset no es miuy facil ya que casi todos son de paga y si quieres uno gratis que sea bueno tienes que buscar un poco mas de lo normal. Eso si una vez encuentras el ideal puedes hacer mucho con ello ya que tanto con el que añadio flores y arboles como con el de animales se puede hacer mucho y muchas decoraciones muy creatrivas es por eso que me gusto tanto ya que podre utilizar todo lo aqui usado y aprendido en futuros proyectos.
