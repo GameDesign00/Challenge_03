@@ -80,7 +80,7 @@
 ![Screenshot 2024-09-20 002934](https://github.com/user-attachments/assets/d2dbcc5f-d491-449b-a808-3e04c532f2b5)
 
 # Parte V: Historia acerca del Videojuego: 
-## Esta es la historia de Mita y su abuelolos cuales deseaban aventuras y querian explorar el mundo, sin embargo, primero comensaron con su Mexico magico. Lo cual los lleva a explorar una antigua piramide la cual habia sido usada por unos bandidos hace 100 años como base ya que era un lugar alejado perfecto para hacer sus fechorias. Lo que ellos no sabian era que los bandidos seguian ahi cuidando su tesoro. Que gracias a un artefacto circular que tiene la piramide que gracias a el tendran vida eterna pero seran unos esqueletos el resto de su vida. Seran capas el abuelo y Mita de salir de ahi y preservar el recuerdo de sus antepasados.
+## Esta es la historia de Mita y su abuelo los cuales deseaban aventuras y explorar el mundo, sin embargo, primero comenzaron con su Mexico. Lo cual los lleva a explorar una antigua piramide la cual habia sido usada por unos bandidos hace 100 años como base ya que era un lugar alejado perfecto para hacer sus fechorias. Lo que ellos no sabian era que los bandidos seguian ahi cuidando su tesoro. Que gracias a un artefacto circular que tiene la piramide que gracias a el tendran vida eterna pero seran unos esqueletos el resto de su vida. Seran capas el abuelo y Mita de salir de ahi y preservar el recuerdo de sus antepasados.
 ## Espera que?
 ## Que hacen los pollos!!!!!!!!!!
 ![Screenshot 2024-09-20 002714](https://github.com/user-attachments/assets/b76c7d3f-3d54-4bd5-80b3-0d932c75669b)
