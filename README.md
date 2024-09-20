@@ -7,7 +7,7 @@
 ![WhatsApp Image 2024-09-19 at 20 51 28_a768141b](https://github.com/user-attachments/assets/495bd568-172f-49d8-893c-7b2d51d89267)
 
 ![WhatsApp Image 2024-09-19 at 20 51 50_9ef2e394](https://github.com/user-attachments/assets/9268e0ed-8cc3-4837-9996-185c9a75e11d)
-
+## Se escogio la textura que tendria toda la piramide
 ![WhatsApp Image 2024-09-19 at 20 54 38_d2bd5213](https://github.com/user-attachments/assets/177f1754-e7be-4108-ac0f-dead98c161c7)
 
 ![WhatsApp Image 2024-09-19 at 20 55 33_59efa7e9](https://github.com/user-attachments/assets/a80e81d5-f26d-49c5-bb3a-7a18d4f140c7)
