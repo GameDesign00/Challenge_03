@@ -1,4 +1,4 @@
-# ¡Viva México!
+![Screenshot 2024-09-20 144617](https://github.com/user-attachments/assets/239e39e3-dd42-4447-8138-e74237a7537e)# ¡Viva México!
 # Introducción
 # Parte I: Creación de la Pirámide Prehispánica
 ## El proyecto inició con la creación un plano utilizando Probuilder para que fuera la base de la pirámide.
@@ -54,13 +54,12 @@
 ![image](https://github.com/user-attachments/assets/5828d7e7-34c1-4e9e-9a6d-1ace68ca3fd2)
 
 # Parte III: Configuración de la Escena mediante Assets
-![Screenshot 2024-09-20 002606](https://github.com/user-attachments/assets/d1f886e5-00a6-4894-b13c-cb0e55a5207d)
-![Screenshot 2024-09-20 002750](https://github.com/user-attachments/assets/d58c129a-2b74-4315-bef6-564a87b14123)
-
-![Screenshot 2024-09-20 002629](https://github.com/user-attachments/assets/c82e9db3-2c04-4416-8b56-6837ef8508f5)
-![Screenshot 2024-09-20 002640](https://github.com/user-attachments/assets/29233367-9616-48c0-865c-b6ce2dff8ae0)
-![Screenshot 2024-09-20 002654](https://github.com/user-attachments/assets/2e0c2b84-01e3-40e6-876d-0da82082e31c)
-![Screenshot 2024-09-20 002730](https://github.com/user-attachments/assets/1dd06217-95a1-4620-9717-67759e4e4f10)
+![Screenshot 2024-09-20 144617](https://github.com/user-attachments/assets/50a1ab4c-0ec0-4606-86f3-0b340c9a77b8)
+![Screenshot 2024-09-20 144851](https://github.com/user-attachments/assets/da2423ec-16e9-4998-b8d8-760d263eb636)
+![Screenshot 2024-09-20 144949](https://github.com/user-attachments/assets/25123520-4959-4035-9f7b-b6d8a2575e54)
+![Screenshot 2024-09-20 145014](https://github.com/user-attachments/assets/c79d9b64-c57e-4ad5-9792-0a178cad4bfc)
+![Screenshot 2024-09-20 144923](https://github.com/user-attachments/assets/d860ab8e-fd04-4a58-8f66-ce9ac65245eb)
+![Screenshot 2024-09-20 002730](https://github.com/user-attachments/assets/04c691fc-214e-4170-9cd6-b6a8c4b4f304)
 
 # Parte IV: Anadidura de Personajes, Animales y Plantas
 ## Todos los asset y elementos añadidos se sacaron de assetstore de unity
@@ -83,7 +82,7 @@
 ## Esta es la historia de Mita y su abuelo los cuales deseaban aventuras y explorar el mundo, sin embargo, primero comenzaron con su Mexico. Lo cual los lleva a explorar una antigua piramide la cual habia sido usada por unos bandidos hace 100 años como base ya que era un lugar alejado perfecto para hacer sus fechorias. Lo que ellos no sabian era que los bandidos seguian ahi cuidando su tesoro. Que gracias a un artefacto circular que tiene la piramide que gracias a el tendran vida eterna pero seran unos esqueletos el resto de su vida. Seran capas el abuelo y Mita de salir de ahi y preservar el recuerdo de sus antepasados.
 ## Espera que?
 ## Que hacen los pollos!!!!!!!!!!
-![Screenshot 2024-09-20 002714](https://github.com/user-attachments/assets/b76c7d3f-3d54-4bd5-80b3-0d932c75669b)
+![Screenshot 2024-09-20 145144](https://github.com/user-attachments/assets/82ee0f39-034b-4653-af63-bd9f79e0adaa)
 
 # Parte VI: Opiniones Personales Acerca de la Actividad
 ## Sebastián Negrón:
